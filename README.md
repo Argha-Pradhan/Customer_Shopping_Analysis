@@ -8,6 +8,10 @@ This project analyzes customer shopping data to understand purchasing behavior a
 
 The workflow includes data cleaning and transformation using Python, SQL-based analysis in MySQL, and interactive dashboard development in Power BI.
 
+## Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](Customer_shopping_behavior_dashboard.png)
+
 ## Tools & Technologies
 
 - **Python:** Data cleaning and preprocessing
@@ -81,9 +85,10 @@ Customer_Shopping_Behavior_Analysis/
 │
 ├── data_cleaning_script.py
 ├── customer_behavior_Analysis.sql
+├── customer_shopping_behavior.csv (Raw Data)
 ├── customer_shopping_behavior_cleaned.csv
 ├── customer_shopping_behavior_cleaned.xlsx
-├── dashboard_preview.png
+├── Customer_shopping_behavior_dashboard.png
 └── README.md
 ```
 
