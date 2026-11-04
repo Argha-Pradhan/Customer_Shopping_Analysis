@@ -1,3 +1,6 @@
+-- Summary
+select * from customer_shopping_behavior limit 20;
+
 -- 1. Customer count based on gender 
 select gender,count(*) as Gender from customer_shopping_behavior group by gender;
 
