@@ -10,7 +10,7 @@ The workflow includes data cleaning and transformation using Python, SQL-based a
 
 ## Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](Customer_shopping_behavior_dashboard.png)
+![Customer Shopping Behavior Dashboard](Customer_behavior_preview.png)
 
 ## Tools & Technologies
 
@@ -88,7 +88,8 @@ Customer_Shopping_Behavior_Analysis/
 ├── customer_shopping_behavior.csv (Raw Data)
 ├── customer_shopping_behavior_cleaned.csv
 ├── customer_shopping_behavior_cleaned.xlsx
-├── Customer_shopping_behavior_dashboard.png
+├── Customer_behavior_preview.png
+├── Dashboard_Customer_behavior.pbix
 └── README.md
 ```
 
